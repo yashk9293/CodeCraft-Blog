@@ -5,7 +5,7 @@ import Moviestan from "../assets/moviestan.png";
 import WhatsApp from "../assets/whatsapp.png";
 import WeatherApp from "../assets/weatherApp.png";
 import AiMock from "../assets/ai-mock.png";
-import dice from "../assets/Dice.png"; 
+import Netflix from "../assets/netflix.png"; 
 import CallToAction from "./CallToAction";
 
 const variants = {
@@ -38,19 +38,19 @@ export const ProjectGrids = () => {
       sourceCodeLink: "https://github.com/yashk9293/moviestan",
     },
     {
-      id: "Weather Web App",
-      image: WeatherApp,
-      description:
-        "Crafted an intuitive weather application that is proficient in fetching and displaying real-time weather details like temperature, humidity, wind speed, current time, day and date of the specified city by integrating WeatherAPI and OpenWeatherMapAPI.",
-      demoLink: "https://yashk9293.github.io/weather_webApp/",
-      sourceCodeLink: "https://github.com/yashk9293/weather_webApp",
-    },
-    {
       id: "WhatsApp Clone",
       image: WhatsApp,
       description:
         "It is a robust web application designed to replicate the core functionalities of WhatsApp. Built using Next.js, it leverages modern web technologies to provide a seamless and real-time communication experience.",
       demoLink: "https://whats-app-clone-ai-integrated.vercel.app/",
+      sourceCodeLink: "https://github.com/yashk9293/",
+    },
+    {
+      id: "MERN Netflix Clone",
+      image: Netflix,
+      description:
+        "The Netflix Clone project is a web application designed to mimic the functionality and user experience of the popular streaming service, Netflix. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project demonstrates a comprehensive implementation of a modern, full-stack web application.",
+      demoLink: "https://google.com",
       sourceCodeLink: "https://github.com/yashk9293/",
     },
     {
@@ -62,12 +62,12 @@ export const ProjectGrids = () => {
       sourceCodeLink: "https://github.com/yashk9293/",
     },
     {
-      id: "Dice Game",
-      image: dice,
+      id: "Weather Web App",
+      image: WeatherApp,
       description:
-        "This is the Dice Game project I developed to further my understanding of JavaScript and enhance my skills in game development.",
-      demoLink: "https://google.com",
-      sourceCodeLink: "https://github.com/",
+        "Crafted an intuitive weather application that is proficient in fetching and displaying real-time weather details like temperature, humidity, wind speed, current time, day and date of the specified city by integrating WeatherAPI and OpenWeatherMapAPI.",
+      demoLink: "https://yashk9293.github.io/weather_webApp/",
+      sourceCodeLink: "https://github.com/yashk9293/weather_webApp",
     },
   ];
 
