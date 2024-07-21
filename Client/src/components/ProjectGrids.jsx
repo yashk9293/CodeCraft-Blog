@@ -43,15 +43,15 @@ export const ProjectGrids = () => {
       description:
         "It is a robust web application designed to replicate the core functionalities of WhatsApp. Built using Next.js, it leverages modern web technologies to provide a seamless and real-time communication experience.",
       demoLink: "https://whats-app-clone-ai-integrated.vercel.app/",
-      sourceCodeLink: "https://github.com/yashk9293/",
+      sourceCodeLink: "https://github.com/yashk9293/WhatsApp-Clone-Ai-Integrated",
     },
     {
       id: "MERN Netflix Clone",
       image: Netflix,
       description:
         "The Netflix Clone project is a web application designed to mimic the functionality and user experience of the popular streaming service, Netflix. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this project demonstrates a comprehensive implementation of a modern, full-stack web application.",
-      demoLink: "https://google.com",
-      sourceCodeLink: "https://github.com/yashk9293/",
+      demoLink: "https://netflix-clone-a5qe.onrender.com/",
+      sourceCodeLink: "https://github.com/yashk9293/Netflix-Clone",
     },
     {
       id: "Ai Mock Interviewer",
@@ -59,7 +59,7 @@ export const ProjectGrids = () => {
       description:
         "AI Mock Interview App is a cutting-edge application built with Next.js designed to help users practice and prepare for technical interviews. Leveraging the power of the Gemini API for AI-driven responses, this app simulates real-world interview scenarios, providing users with a comprehensive and interactive mock interview experience.",
       demoLink: "https://ai-interview-mocker-delta.vercel.app/",
-      sourceCodeLink: "https://github.com/yashk9293/",
+      sourceCodeLink: "https://github.com/yashk9293/Ai_Mock_Interviewer_with_NextJS",
     },
     {
       id: "Weather Web App",
