@@ -23,7 +23,7 @@ Welcome to the CodeCraft Blog! Developed a full-stack blogging application utili
 
 
 ## Admin Dashboard
-![Screenshot 2024-07-21 230551](https://github.com/user-attachments/assets/79b10d89-b1f1-4ac7-a23b-aa32ddf7c171)
+![Screenshot 2024-07-21 232806](https://github.com/user-attachments/assets/87451b9d-903f-448b-b877-52ca9e68d15f)
 
 
 ## Total Posts
